@@ -37,7 +37,7 @@
 $ git clone --recursive https://github.com/2023-Winter-Bootcamp-Team-J/NextPage.git
 ```
 ### env setting in the NextPage folder
-* Nextpage/.env
+* NextPage/.env
 ```
 DATABASE_NAME=
 MYSQL_ROOT_HOST=
