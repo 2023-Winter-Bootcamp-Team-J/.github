@@ -88,32 +88,32 @@
 ┃ ┣ 📂.github  
 ┃ ┣ 📂public  
 ┃ ┗ 📂src  
-┃   ┣ 📂assets  
-┃   ┃ ┣ 📜lottie.json 
-┃   ┃ ┗ 📜react.svg  
-┃   ┣ 📂componets  
-┃   ┃ ┣ 📜CreateStoryModal.tsx 
-┃   ┃ ┣ 📜ForceGraph.jsx 
-┃   ┃ ┣ 📜ImgCarousel.tsx 
-┃   ┃ ┣ 📜Navbar.tsx
-┃   ┃ ┣ 📜NicknameModal.tsx 
-┃   ┃ ┣ 📜Onboarding1.tsx 
-┃   ┃ ┣ 📜Onboarding2.tsx
-┃   ┃ ┣ 📜Onboarding3.tsx
-┃   ┃ ┣ 📜Onboarding4.tsx
-┃   ┃ ┣ 📜RootModal.tsx
-┃   ┃ ┣ 📜ScenarioModal.tsx
-┃   ┃ ┣ 📜StoryModal.tsx
-┃   ┃ ┣ 📜Swiper.tsx
-┃   ┃ ┗ 📜ThreeParticles.tsx
-┃   ┣ 📂pages  
-┃   ┣ 📂recoil 
-┃   ┃ ┗ 📜atoms.tsx 
-┃   ┣ 📜App.css 
-┃   ┣ 📜App.tsx  
-┃   ┣ 📜index.css
-┃   ┣ 📜main.css  
-┃   ┗ 📜vite-env.d.ts  
+┃ ┃ ┣ 📂assets  
+┃ ┃ ┃ ┣ 📜lottie.json 
+┃ ┃ ┃ ┗ 📜react.svg  
+┃ ┃ ┣ 📂componets  
+┃ ┃ ┃ ┣ 📜CreateStoryModal.tsx 
+┃ ┃ ┃ ┣ 📜ForceGraph.jsx 
+┃ ┃ ┃ ┣ 📜ImgCarousel.tsx 
+┃ ┃ ┃ ┣ 📜Navbar.tsx
+┃ ┃ ┃ ┣ 📜NicknameModal.tsx 
+┃ ┃ ┃ ┣ 📜Onboarding1.tsx 
+┃ ┃ ┃ ┣ 📜Onboarding2.tsx
+┃ ┃ ┃ ┣ 📜Onboarding3.tsx
+┃ ┃ ┃ ┣ 📜Onboarding4.tsx
+┃ ┃ ┃ ┣ 📜RootModal.tsx
+┃ ┃ ┃ ┣ 📜ScenarioModal.tsx
+┃ ┃ ┃ ┣ 📜StoryModal.tsx
+┃ ┃ ┃ ┣ 📜Swiper.tsx
+┃ ┃ ┃ ┗ 📜ThreeParticles.tsx
+┃ ┃ ┣ 📂pages  
+┃ ┃ ┣ 📂recoil 
+┃ ┃ ┃ ┗ 📜atoms.tsx 
+┃ ┃ ┣ 📜App.css 
+┃ ┃ ┣ 📜App.tsx  
+┃ ┃ ┣ 📜index.css
+┃ ┃ ┣ 📜main.css  
+┃ ┃ ┗ 📜vite-env.d.ts  
 ┣ 📂nginx 
 ┣ 📜docker-compose.monitoring.yml 
 ┗ 📜docker-compose.yml 
