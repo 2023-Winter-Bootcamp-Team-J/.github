@@ -6,6 +6,20 @@
 ##### URL : https://nextpage.world 
 </div>
 
+## 📚Table of Contents
+- [Medium](#-Medium)
+- [Demo](#-Demo)
+- [System Architechture](#-System-Architechture)
+- [Tech stack](#-Tech-stack)
+- [ERD](#-Erd)
+- [Neo4j](#-Neo4j)
+- [API](#-API)
+- [Monitoring](#-Monitoring)
+- [File Directory](#-file-directory)
+- [How to Start](#-How-to-Start)
+- [Directory Structure](#-Directory-Structure)
+- [Member](#-Member)
+
 ## 📑 Medium
 ✔️ [Korean Version](https://medium.com/@angal2310/siliconvalley-winter-bootcamp-nextpage-korean-ver-9be40743773d)
 <br>✔️ [English Version](https://medium.com/@angal2310/siliconvalley-winter-bootcamp-nextpage-english-ver-19fa610c68d2)
@@ -55,7 +69,7 @@
   
 </div>
 
-## 📊 모니터링
+## 📊 Monitoring
 Grafana & Prometheus
 
 **Django** |**Node exporter** |
