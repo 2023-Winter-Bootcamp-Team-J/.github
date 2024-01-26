@@ -38,7 +38,7 @@
     <summary>Backend</summary>
 <aside>
 
-📦 backend  
+📦backend  
 ┣ 📂backend
 ┃ ┣ 📜__init__.py 
 ┃ ┣ 📜asgi.py  
@@ -83,11 +83,11 @@
 ┃ ┣ 📜tests.py  
 ┃ ┣ 📜urls.py  
 ┃ ┗ 📜view.py  
-┣ 📜Dockerfile
-┣ 📜init_data.json
-┣ 📜load_neo4j_data.py
-┣ 📜manage.py
-┗ 📜requirements.txt
+┣ 📜Dockerfile
+┣ 📜init_data.json
+┣ 📜load_neo4j_data.py
+┣ 📜manage.py
+┗ 📜requirements.txt
 
 </aside>
 </details>
