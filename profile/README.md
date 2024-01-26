@@ -33,6 +33,33 @@
 ## 📊 모니터링
 
 ## 🚀 How to Start
+```
+$ git clone --recursive https://github.com/2023-Winter-Bootcamp-Team-J/NextPage.git
+```
+### env setting in the NextPage folder
+* Nextpage/.env
+```
+DATABASE_NAME=
+MYSQL_ROOT_HOST=
+MYSQL_ROOT_PASSWORD=
+DATABASE_USER=
+DATABASE_PORT=
+DATABASE_HOST=
+DATABASE_PASSWORD=
+NEO4J_USERNAME=
+NEO4J_PASSWORD=
+GPT_API_KEY=
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+SECRET_KEY= 
+
+
+```
+### Run Docker
+```
+$ docker-compose -f docker-compose.yml -f docker-compose.monitoring.yml up -d --build
+```
+
 
 ## 📂 Directory Structure
 
