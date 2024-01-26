@@ -65,7 +65,6 @@
 <div markdown="1">
   
 <img width="1307" alt="form gptanswer API" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/2c798336-4334-4fed-bd1a-27fd8bd86d60">
-<img width="1304" alt="user qna API" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/1a771ca2-274f-4be4-aa2f-ab02dd7a7aff">
   
 </div>
 
@@ -105,8 +104,6 @@ GPT_API_KEY=
 AWS_ACCESS_KEY_ID=
 AWS_SECRET_ACCESS_KEY=
 SECRET_KEY= 
-
-
 ```
 ### Run Docker
 ```
