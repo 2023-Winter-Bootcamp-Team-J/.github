@@ -35,7 +35,7 @@
 ### 🪐 온보딩 페이지
 
 ## 💻 System Architechture
-<img alt="system architecture" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/5b770b92-d6eb-4f52-8a91-9550c611a4b8">
+<img alt="system architecture" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/bdb2026e-12ee-4826-9c56-738b331c59d2">
 
 ## 💡 Tech stack 
 <br>
