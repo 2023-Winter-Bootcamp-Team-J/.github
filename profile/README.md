@@ -1,12 +1,7 @@
-## Hi there 👋
+### <p align = center> 2023 Techeer Winter BootCamp <p>
+<div align=center>
+<br> <image width=50%, height=50%, src="![nextpage로고](https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/0adc0909-5152-4dfc-87f2-c729f6dcc75d)">
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br>** 최고의 AI면접 서비스 지금 시작하세요! **
+##### URL : https://nextpage.world 
+</div>
