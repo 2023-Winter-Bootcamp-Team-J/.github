@@ -7,6 +7,8 @@
 </div>
 
 ## 📑 Medium
+✔️ [Korean Version](https://medium.com/@angal2310/siliconvalley-winter-bootcamp-nextpage-korean-ver-9be40743773d)
+<br>✔️ [English Version](https://medium.com/@angal2310/siliconvalley-winter-bootcamp-nextpage-english-ver-19fa610c68d2)
 
 ## 🎬 Demo
 
