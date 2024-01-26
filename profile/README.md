@@ -35,88 +35,97 @@
 ## 📂 Directory Structure
 
 <details>
+    <summary>Backend</summary>
 <aside>
 
-📦remember plus  
+📦 backend  
+┣ 📂backend
+┃ ┣ 📜__init__.py 
+┃ ┣ 📜asgi.py  
+┃ ┣ 📜celery.py  
+┃ ┣ 📜settings.py  
+┃ ┣ 📜url.py  
+┃ ┗ 📜wsgi.py  
+┗ 📂data  
+┃ ┣ 📂grafana
+┃ ┗ 📂prometheus 
+┗ 📂logging  
+┃ ┣ 📂filebeat
+┃ ┗ 📂logstash 
+┗ 📂neo_db  
+┃ ┣ 📂migrations   
+┃ ┣ 📜__init__.py  
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py  
+┃ ┣ 📜serializers.py 
+┃ ┣ 📜tests.py  
+┃ ┗ 📜view.py  
+┗ 📂story 
+┃ ┣ 📂migrations   
+┃ ┣ 📜__init__.py  
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜image_generation_logic.py  
+┃ ┣ 📜models.py  
+┃ ┣ 📜serializers.py 
+┃ ┣ 📜tasks.py  
+┃ ┣ 📜tests.py  
+┃ ┣ 📜urls.py  
+┃ ┗ 📜view.py  
+┗ 📂user
+┃ ┣ 📂migrations   
+┃ ┣ 📜__init__.py  
+┃ ┣ 📜admin.py  
+┃ ┣ 📜apps.py  
+┃ ┣ 📜models.py  
+┃ ┣ 📜serializers.py 
+┃ ┣ 📜tests.py  
+┃ ┣ 📜urls.py  
+┃ ┗ 📜view.py  
+┣ 📜Dockerfile
+┣ 📜init_data.json
+┣ 📜load_neo4j_data.py
+┣ 📜manage.py
+┗ 📜requirements.txt
+
+</aside>
+</details>
+
+<details>
+    <summary>Frontend</summary>
+<aside>
+
+📦frontend  
 ┣ 📂.github  
-┣ 📂backend  
-┃ ┣ 📂backend
-┃ ┃ ┣ 📜__init__.py 
-┃ ┃ ┣ 📜asgi.py  
-┃ ┃ ┣ 📜celery.py  
-┃ ┃ ┣ 📜settings.py  
-┃ ┃ ┣ 📜url.py  
-┃ ┃ ┗ 📜wsgi.py  
-┃ ┗ 📂data  
-┃ ┃ ┣ 📂grafana
-┃ ┃ ┗ 📂prometheus 
-┃ ┗ 📂logging  
-┃ ┃ ┣ 📂filebeat
-┃ ┃ ┗ 📂logstash 
-┃ ┗ 📂neo_db  
-┃ ┃ ┣ 📂migrations   
-┃ ┃ ┣ 📜__init__.py  
-┃ ┃ ┣ 📜admin.py  
-┃ ┃ ┣ 📜apps.py  
-┃ ┃ ┣ 📜models.py  
-┃ ┃ ┣ 📜serializers.py 
-┃ ┃ ┣ 📜tests.py  
-┃ ┃ ┗ 📜view.py  
-┃ ┗ 📂story 
-┃ ┃ ┣ 📂migrations   
-┃ ┃ ┣ 📜__init__.py  
-┃ ┃ ┣ 📜admin.py  
-┃ ┃ ┣ 📜apps.py  
-┃ ┃ ┣ 📜image_generation_logic.py  
-┃ ┃ ┣ 📜models.py  
-┃ ┃ ┣ 📜serializers.py 
-┃ ┃ ┣ 📜tasks.py  
-┃ ┃ ┣ 📜tests.py  
-┃ ┃ ┣ 📜urls.py  
-┃ ┃ ┗ 📜view.py  
-┃ ┗ 📂user
-┃ ┃ ┣ 📂migrations   
-┃ ┃ ┣ 📜__init__.py  
-┃ ┃ ┣ 📜admin.py  
-┃ ┃ ┣ 📜apps.py  
-┃ ┃ ┣ 📜models.py  
-┃ ┃ ┣ 📜serializers.py 
-┃ ┃ ┣ 📜tests.py  
-┃ ┃ ┣ 📜urls.py  
-┃ ┃ ┗ 📜view.py  
-┣ 📂frontend  
-┃ ┣ 📂.github  
-┃ ┣ 📂public  
-┃ ┗ 📂src  
-┃ ┃ ┣ 📂assets  
-┃ ┃ ┃ ┣ 📜lottie.json 
-┃ ┃ ┃ ┗ 📜react.svg  
-┃ ┃ ┣ 📂componets  
-┃ ┃ ┃ ┣ 📜CreateStoryModal.tsx 
-┃ ┃ ┃ ┣ 📜ForceGraph.jsx 
-┃ ┃ ┃ ┣ 📜ImgCarousel.tsx 
-┃ ┃ ┃ ┣ 📜Navbar.tsx
-┃ ┃ ┃ ┣ 📜NicknameModal.tsx 
-┃ ┃ ┃ ┣ 📜Onboarding1.tsx 
-┃ ┃ ┃ ┣ 📜Onboarding2.tsx
-┃ ┃ ┃ ┣ 📜Onboarding3.tsx
-┃ ┃ ┃ ┣ 📜Onboarding4.tsx
-┃ ┃ ┃ ┣ 📜RootModal.tsx
-┃ ┃ ┃ ┣ 📜ScenarioModal.tsx
-┃ ┃ ┃ ┣ 📜StoryModal.tsx
-┃ ┃ ┃ ┣ 📜Swiper.tsx
-┃ ┃ ┃ ┗ 📜ThreeParticles.tsx
-┃ ┃ ┣ 📂pages  
-┃ ┃ ┣ 📂recoil 
-┃ ┃ ┃ ┗ 📜atoms.tsx 
-┃ ┃ ┣ 📜App.css 
-┃ ┃ ┣ 📜App.tsx  
-┃ ┃ ┣ 📜index.css
-┃ ┃ ┣ 📜main.css  
-┃ ┃ ┗ 📜vite-env.d.ts  
-┣ 📂nginx 
-┣ 📜docker-compose.monitoring.yml 
-┗ 📜docker-compose.yml 
+┣ 📂public  
+┗ 📂src  
+┃ ┣ 📂assets  
+┃ ┃ ┣ 📜lottie.json 
+┃ ┃ ┗ 📜react.svg  
+┃ ┣ 📂componets  
+┃ ┃ ┣ 📜CreateStoryModal.tsx 
+┃ ┃ ┣ 📜ForceGraph.jsx 
+┃ ┃ ┣ 📜ImgCarousel.tsx 
+┃ ┃ ┣ 📜Navbar.tsx
+┃ ┃ ┣ 📜NicknameModal.tsx 
+┃ ┃ ┣ 📜Onboarding1.tsx 
+┃ ┃ ┣ 📜Onboarding2.tsx
+┃ ┃ ┣ 📜Onboarding3.tsx
+┃ ┃ ┣ 📜Onboarding4.tsx
+┃ ┃ ┣ 📜RootModal.tsx
+┃ ┃ ┣ 📜ScenarioModal.tsx
+┃ ┃ ┣ 📜StoryModal.tsx
+┃ ┃ ┣ 📜Swiper.tsx
+┃ ┃ ┗ 📜ThreeParticles.tsx
+┃ ┣ 📂pages  
+┃ ┣ 📂recoil 
+┃ ┃ ┗ 📜atoms.tsx 
+┃ ┣ 📜App.css 
+┃ ┣ 📜App.tsx  
+┃ ┣ 📜index.css
+┃ ┣ 📜main.css  
+┗ ┗ 📜vite-env.d.ts 
 
 </aside>
 </details>
