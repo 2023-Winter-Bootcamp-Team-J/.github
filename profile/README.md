@@ -50,15 +50,15 @@
 **etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </div>
 
-## 💾 ERD
+## 💾 MySQL
 <img width="1145" alt="AInterview ERD" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/020371c8-2500-4dbe-93c6-fdc98ac87013">
 
 ## 💾 Neo4j
-<img src = "https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/55618397-8a5c-4aec-b0e4-171d7ac880ad" width=80% height="90%"><img src = "https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/8a8c693e-0591-4bfd-b435-7ba2e5a9c7ae" width=80% height="50%">
+<img src = "https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/4d9d20a3-cbf7-4fd2-8971-eafe98a8fef7" width=80% height="90%">
 
 ## 📚 API
 <!-- <details> -->
-<summary>swagger</summary>
+swagger
 <div markdown="1">
   
 <img width="1307" alt="form gptanswer API" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/2c798336-4334-4fed-bd1a-27fd8bd86d60">
@@ -66,7 +66,7 @@
 </div>
 
 ## 📊 Monitoring
-Grafana & Prometheus
+Grafana & Prometheus & ELK
 
 **Django** |**Node exporter** |
 :-----:|:-----:
@@ -80,6 +80,16 @@ Grafana & Prometheus
     <td align="center"><img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/154852665/eb342c43-a67e-4fd9-8557-2a65b9f854c2" width="100%" height="100%"></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>ELK</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/e5e1299d-0136-485c-9822-87c9903c9333" width="100%" height="100%"></td>
+  </tr>
+</table>
+
 
 ## 🚀 How to Start
 ```
