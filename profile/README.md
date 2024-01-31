@@ -2,7 +2,7 @@
 <div align=center>
 <br> <image width=50%, height=50%, src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/0adc0909-5152-4dfc-87f2-c729f6dcc75d">
 
-<br>나만의 이야기를 만들어보세요!
+<br>🌠 상상을 현실로, 손끝에서 펼쳐지는 우리만의 세계 🌠
 ##### URL : https://nextpage.world 
 </div>
 
