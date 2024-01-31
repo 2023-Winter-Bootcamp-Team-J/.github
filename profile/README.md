@@ -1,6 +1,6 @@
 ### <p align = center> 🎊 2023 Techeer Winter BootCamp 🎊 <p>
 <div align=center>
-<br> <image width=50%, height=50%, src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/0adc0909-5152-4dfc-87f2-c729f6dcc75d">
+<br> <image width=50%, height=50%, src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/58b68589-fb1c-4758-908f-645308df06ac">
 
 <br>🌠 상상을 현실로, 손끝에서 펼쳐지는 우리만의 세계 🌠
 ##### URL : https://nextpage.world 
