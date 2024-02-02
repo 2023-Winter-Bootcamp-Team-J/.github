@@ -26,6 +26,9 @@
 
 ## 🎬 Demo
 
+### 🪐 온보딩 페이지
+<img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/fe8dcf7b-8d7c-4a76-af72-3c9418aa3a55">
+
 ### 🪐 랜딩페이지
 <img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/475a7014-9e16-490f-ab4e-fb68a27f02e2">
 
@@ -33,12 +36,10 @@
 <img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/34943e7a-23ba-4bc6-a6cc-729061a90afe">
 
 ### 🪐 시나리오 작성 모달
+<img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/bbe94330-7d92-4c93-953e-6d22b1e6db7a">
 
 ### 🪐 시나리오 페이지
 <img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/a890e8ec-fb71-4453-b5bc-1bbb98a99898">
-
-### 🪐 온보딩 페이지
-<img src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/fe8dcf7b-8d7c-4a76-af72-3c9418aa3a55">
 
 
 ## 💻 System Architechture
