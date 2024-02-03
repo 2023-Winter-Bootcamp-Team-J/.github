@@ -1,4 +1,4 @@
-### <p align = center> 🎊 2023 Techeer Winter BootCamp 🎊 <p>
+### <p align = center> 🎊 2023 Techeer Winter BootCamp 1등 수상 🎊 <p>
 <div align=center>
 <br> <image width=50%, height=50%, src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/58b68589-fb1c-4758-908f-645308df06ac">
 
