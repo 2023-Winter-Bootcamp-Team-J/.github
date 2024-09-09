@@ -3,7 +3,7 @@
 <br> <image width=50%, height=50%, src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/58b68589-fb1c-4758-908f-645308df06ac">
 
 <br>🌠 상상을 현실로, 손끝에서 펼쳐지는 우리만의 세계 🌠
-##### URL : https://nextpage-front.vercel.app/ 
+##### URL : https://nextpage.world 
 </div>
 
 ## 📚Table of Contents
@@ -231,14 +231,13 @@ $ docker-compose -f docker-compose.yml -f docker-compose.monitoring.yml up -d --
 
 ## 👨‍👩‍👧‍👧 Member
 
-| Name  | <center>윤정은</center> | <center>김미영</center> | <center>조하나</center> | <center>김광현</center> | <center>이강욱</center> | 
+| Name  | <center>윤정은</center> | <center>김미영</center> | <center>조하나</center> | <center>김형준</center> | <center>김광현</center> | <center>이강욱</center> | 
 | :----- | :---------------------------------------: |:----------------------------------:| :---------------------------------------: | :----------------------------------------: | :-----------------------------------: | :---------------------------------------: | 
-| Profile | <center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/b07082d0-28f9-442a-9e8d-d46aeed4f9d4" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/96506175/fbdcdb1c-3f7c-4aac-9edc-d04bc58ee1d8" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/94193594/ccc6683d-51fd-448c-9c78-e6735f91bada" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/c6fbcf04-d2a6-47ed-9cb5-2d69533e4058" /></center>|<center><img width="110px" height="110px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/c838e8be-b676-411e-9b48-c096e54dca7a" />|<center>
-| role    | <center> Team Leader <br> Backend <br> DevOps </center>   | <center> Team Leader <br> Frontend </center>  | <center> Frontend <br> Backend </center>   | <center> Backend <br> DevOps </center> | <center> Backend <br> DevOps </center>  | 
-GitHub | <center>&nbsp;&nbsp;&nbsp;[@jungeunyooon](https://github.com/jungeunyooon)&nbsp;&nbsp;&nbsp;</center> | <center>&nbsp;[@miyoung12](https://github.com/miyoung12)&nbsp;</center> | <center>&nbsp;&nbsp;&nbsp;&nbsp;[@dlwhsk0](https://github.com/dlwhsk0)&nbsp;&nbsp;&nbsp;&nbsp;</center> | <center>[@Gwanghyeon-k](https://github.com/Gwanghyeon-k)</center> | <center>&nbsp;&nbsp;&nbsp;&nbsp;[@kanguk01](https://github.com/kanguk01)&nbsp;&nbsp;&nbsp;&nbsp;</center> | 
+| Profile | <center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/b07082d0-28f9-442a-9e8d-d46aeed4f9d4" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/96506175/fbdcdb1c-3f7c-4aac-9edc-d04bc58ee1d8" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/94193594/ccc6683d-51fd-448c-9c78-e6735f91bada" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/758a3b80-a12e-4ee2-9396-b82bc902e99b" /></center>|<center><img width="100px" height="100px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/c6fbcf04-d2a6-47ed-9cb5-2d69533e4058" /></center>|<center><img width="110px" height="110px" src="https://github.com/2023-Winter-Bootcamp-Team-J/.github/assets/113340283/c838e8be-b676-411e-9b48-c096e54dca7a" />|<center>
+| role    | <center> Team Leader <br> Backend <br> DevOps </center>   | <center> Team Leader <br> Frontend </center>  | <center> Frontend <br> Backend </center>  | <center> Frontend </center> | <center> Backend <br> DevOps </center> | <center> Backend <br> DevOps </center>  | 
+GitHub | <center>&nbsp;&nbsp;&nbsp;[@jungeunyooon](https://github.com/jungeunyooon)&nbsp;&nbsp;&nbsp;</center> | <center>&nbsp;[@miyoung12](https://github.com/miyoung12)&nbsp;</center>| <center>&nbsp;&nbsp;&nbsp;&nbsp;[@dlwhsk0](https://github.com/dlwhsk0)&nbsp;&nbsp;&nbsp;&nbsp;</center>| <center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[@brojj22](https://github.com/brojj22)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center> | <center>[@Gwanghyeon-k](https://github.com/Gwanghyeon-k)</center> | <center>&nbsp;&nbsp;&nbsp;&nbsp;[@kanguk01](https://github.com/kanguk01)&nbsp;&nbsp;&nbsp;&nbsp;</center> | 
 
 
 
 
 </div>
-
